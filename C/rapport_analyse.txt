@@ -1,0 +1,12 @@
+--------------------------------------------------
+        === Rapport d'analyse réseau ===
+--------------------------------------------------
+Résumé des statistiques :
+Nombre total de connexions : 84
+Nombre total de succès : 59
+Nombre total d'échecs : 25
+Port le plus utilisé : 22
+Adresse IP la plus active : 192.168.1.10
+- 192.168.1.10 sur le port 22 (6 échecs)
+- 192.168.1.20 sur le port 21 (6 échecs)
+- 192.168.1.40 sur le port 22 (6 échecs)
